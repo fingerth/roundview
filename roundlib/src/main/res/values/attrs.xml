@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <declare-styleable name="FingerthRoundView">
+        <attr name="radius" format="dimension" />
+
+        <attr name="radiusColor" format="color" />
+    </declare-styleable>
+</resources>
